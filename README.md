@@ -29,4 +29,16 @@ Note, for a video-format of the following instructions, probably making it easie
 15. Save the file and restart GMod, if all goes well then you'll see your spawnicon all there and looking nice. If it doesnt, email mattjeanes23@gmail.com.
 (Optional) 16. If you then wish to upload it to workshop, follow the instructions on this page: http://wiki.garrysmod.com/page/Workshop/Creating_addons
 
-Good luck with your core! Dr. Matt.
+Sounds
+===============
+
+The sounds used in the optional 'special' sub-folder are abbreviations of their meanings.
+• 'dmg' is short for 'Damage' - the sound made when the core takes any damage, it is highly advised that the sound is very very short.
+• 'use' is short for when you press the 'Use key (default E)' on the core. It could perhaps show interaction
+• 'undo' isn't short for anything but it's the sound the core will create upon it's removal.
+
+The special sounds must be in wav format, because of how the base core is written. This may change some-day however.
+
+Normal sounds can take the form of either MP3 or WAV. WAV is a loss-less high quality format but MP3 takes up less space. It is advised you use MP3's for a music core.
+
+Every sound, both normal and special, must be at a project rate of 44100 Hz. You'll find it set to this as default in Audacity so I recommend using it to create or edit your sounds.
