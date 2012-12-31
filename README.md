@@ -18,7 +18,7 @@ Note, for a video-format of the following instructions, probably making it easie
 7. You will then need to edit the texture of your core, by opening up the VTF files in any editor supporting them (Paint.NET with the VTF plugin is recommended).
 8. Move to the models/cores/ folder and once again rename 'exam' to your four letter word and go inside the folder.
 9. Here you'll need a HEX Editor, I recommend XVI32 for the task. Open up core.mdl with the hex editor and find the two mentionings of 'exam' near the very top and bottom of the file and replace with your four-letter-word.
-10. Move to the sound/cores/ folder, and once more change the name of the 'exam' folder to your four-letter-word and go inside. Place any mp3 or wav files inside this folder and they'll be used automatically.
+10. Move to the sound/cores/ folder (may not exist so you'll want to create it), and once more change the name of the 'exam' folder to your four-letter-word and go inside. Place any mp3 or wav files inside this folder and they'll be used automatically.
 (Optional) 10b. Create a folder named 'special' inside sound/cores/-fourletterword-/ and place any from 'dmg', 'undo' or 'use' .wav inside to automatically apply these special effects to your core (Note dmg is 'damage').
 11. Done, nearly! Now goto addon.txt and re-write the information inside to fit your needs. The core should now be ready for ingame testing.
 12. If it works correctly, take it to the white room in gm_construct and take a print-screen, we'll use this in a moment. If it doesn't, email mattjeanes23@gmail.com.
