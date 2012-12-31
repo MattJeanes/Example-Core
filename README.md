@@ -33,9 +33,10 @@ Sounds
 ===============
 
 The sounds used in the optional 'special' sub-folder are abbreviations of their meanings.
-1. 'dmg' is short for 'Damage' - the sound made when the core takes any damage, it is highly advised that the sound is very very short.
-2. 'use' is short for when you press the 'Use key (default E)' on the core. It could perhaps show interaction.
-3. 'undo' isn't short for anything but it's the sound the core will create upon it's removal.
+
+1. dmg.wav is short for 'Damage' - the sound made when the core takes any damage, it is highly advised that the sound is very very short.
+2. use.wav is short for when you press the 'Use key (default E)' on the core. It could perhaps show interaction.
+3. undo.wav isn't short for anything but it's the sound the core will create upon it's removal.
 
 The special sounds must be in wav format, because of how the base core is written. This may change some-day however.
 
