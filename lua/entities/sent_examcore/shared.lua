@@ -1,12 +1,12 @@
 -- Made with Dr. Matt's Base Core v3
-ENT.Base 			= "base_core3"
+ENT.Base 		= "base_core3"
 ENT.PrintName		= "Example Core" -- The name the Core will come up as in the Spawnmenu
 ENT.Spawnable		= true -- If true, Anyone can spawn the entity
 ENT.AdminSpawnable	= true -- If true, Admins can spawn the entity, Set ENT.Spawnable to false to make the Core Admin only.
 ENT.Category		= "Portal 2 Cores"
-ENT.Animation		= "sphere_idle_happy" -- Set's the animation of the core, Look in Portal 2 Authoring Tools for more info.
-ENT.Delay			= 5 -- Delay in seconds between each sound the core makes (excluding 'special' sounds)
-ENT.Dir				= "exam" -- The name of your sub-folder, must be 4 characters.
+ENT.Animation		= "sphere_idle_happy" -- Set's the animation of the core, a list can be found here: http://pastebin.com/SAHyMZ3k
+ENT.Delay		= 5 -- Delay in seconds between each sound the core makes (excluding 'special' sounds)
+ENT.Dir			= "exam" -- The name of your sub-folder, must be 4 characters.
 /*---------------------------------------------------------
 	ENT.Dir: Put your stuff in the following folders:
 	
