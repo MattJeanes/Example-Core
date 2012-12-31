@@ -14,7 +14,7 @@ Note, for a video-format of the following instructions, probably making it easie
 1. Create yourself in your mind, a 4 letter word that resembles the core you want to make. Here I am using 'exam'.
 2. Go into the lua/entites folder and rename the folder inside to sent_'fourletterword' core.
 3. Open up that folder, and then open shared.lua in an editor of your choice (Notepad++ is recommended).
-4. Go through the commented file, putting in the information and your four letter word where required (basic lua knowledge may be needed).
+4. Go through the commented file, putting in the information and your four letter word where required (basic lua knowledge may be needed). ( Core animations can be found here: http://pastebin.com/SAHyMZ3k )
 5. Goto materials/models/cores/ and again rename the folder exam to your four letter word. And then go into the folder.
 6. In this folder, you'll need to open up each of the .vmt files with a text editor and again change /exam/ to /-fourletterword-/ and save.
 7. You will then need to edit the texture of your core, by opening up the VTF files in any editor supporting them (Paint.NET with the VTF plugin is recommended).
