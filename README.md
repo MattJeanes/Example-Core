@@ -3,6 +3,10 @@ Example-Core
 
 Download this core and use it to work from if you're wanting.
 
+Download
+===============
+To download this package if you have not already, click the button labelled 'ZIP' on this page.
+
 Instructions
 ===============
 Note, for a video-format of the following instructions, probably making it easier to understand for some, go here: <Video link coming soon>
