@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$baseTexture "models/cores/exam/personality_sphere_glass"
+
+$translucent 1
+
+
+
+
+
+}

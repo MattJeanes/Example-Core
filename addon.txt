@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Personnel Cores"
+	"version"	"Git"
+	"up_date"	"30/12/12"
+	"author_name"	"Dr. Matt"
+	"author_email"	"mattjeanes23@gmail.com"
+	"author_url"	"mattjeanes.com"
+	
+	"info"		"A pack of extra cores for Garry's Mod from my various friends."
+}
