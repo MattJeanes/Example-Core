@@ -22,12 +22,11 @@ Note, for a video-format of the following instructions, probably making it easie
 9. Here you'll need a HEX Editor, I recommend XVI32 for the task. Open up core.mdl with the hex editor and find the two mentionings of 'exam' near the very top and bottom of the file and replace with your four-letter-word.
 10. Move to the sound/cores/ folder, and once more change the name of the 'exam' folder to your four-letter-word and go inside. Place any mp3 or wav files inside this folder and they'll be used automatically.
 (Optional) 10b. Create a folder named 'special' inside sound/cores/-fourletterword-/ and place any from 'dmg', 'undo' or 'use' .wav inside to automatically apply these special effects to your core. Please note that these special sounds must be wav format.
-11. Done, nearly! Now goto addon.txt and re-write the information inside to fit your needs. The core should now be ready for ingame testing.
-12. If it works correctly, take it to the white room in gm_construct and take a print-screen, we'll use this in a moment. If it doesn't, email mattjeanes23@gmail.com.
-13. Goto materials/vgui/entities/ and rename the two files inside to sent_'four-letter-word'core, and edit the VMT like you did for step 6.
-14. Then, open up the .vtf in that folder and edit it so it is your print-screen of the core from earlier, I recommend using a type of 'magic-selection' to delete the background, matching the spawnicon style of my cores.
-15. Save the file and restart GMod, if all goes well then you'll see your spawnicon all there and looking nice. If it doesnt, email mattjeanes23@gmail.com.
-(Optional) 16. If you then wish to upload it to workshop, follow the instructions on this page: http://wiki.garrysmod.com/page/Workshop/Creating_addons
+11. Try and spawn it in-game. If it works correctly, take it to the white room in gm_construct and take a print-screen, we'll use this in a moment. If it doesn't, email mattjeanes23@gmail.com.
+12. Goto materials/vgui/entities/ and rename the two files inside to sent_'four-letter-word'core, and edit the VMT like you did for step 6.
+13. Open up the .vtf in that folder (this is your core's spawnicon) and edit it so it is your print-screen of the core from earlier, I recommend using a type of 'magic-selection' to delete the background, matching the spawnicon style of my cores.
+14. Save the file and restart GMod, if all goes well then you'll see your spawnicon all there and looking nice. If it doesnt, email mattjeanes23@gmail.com.
+15. (Optional) If you then wish to upload it to workshop, follow the instructions on this page: http://wiki.garrysmod.com/page/Workshop/Creating_addons
 
 Sounds
 ===============
